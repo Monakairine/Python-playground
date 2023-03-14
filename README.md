@@ -1,4 +1,4 @@
-# Python Notebooks: Estudos em Programação e Análise de Dados
+# Python Playground: Estudos em Programação e Análise de Dados com python
 Este repositório contém uma variedade de projetos e estudos desenvolvidos em Python, com o objetivo de aprimorar habilidades em programação e análise de dados.
 
 ## Notebooks Disponíveis
